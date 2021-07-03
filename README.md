@@ -1,11 +1,6 @@
 <h4 align="center">
-  🔑 API com Adonis 5
+  💻 API com Adonis 5
 </h4>
-
-<p align="center">
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
 
 <br>
 
@@ -17,6 +12,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Adonis](https://adonisjs.com/)
 - [SQLite](https://www.sqlite.org/index.html)
 
-## 📝 Projeto
+## 💻 Projeto
 
 API simples com uma rota de cadastro (user e username) e outra de listagem de usuários
+
+## 💻 Objetivo
+
+Criar uma API pequena para analisar as novas implementações feitas no framework
